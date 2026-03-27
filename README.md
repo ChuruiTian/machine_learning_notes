@@ -42,7 +42,7 @@ when p = 1, it is Manhattan Distance
 
 when p = 2, it is Euclidean Distance
 
-![miformula](miko.jpg)
+![miformula](miko.png)
 
 
 ![knnRexample](knn_sample.jpg)
