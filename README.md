@@ -41,14 +41,10 @@ Different method to calculate distance
 when p = 1, it is Manhattan Distance
 
 when p = 2, it is Euclidean Distance
+![miformula](miko.jpg)
 
-
-
-
-
-
-
-
+example: 
+![knnRexample](knn_sample.jpg)
 
 
 
