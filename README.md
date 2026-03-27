@@ -28,3 +28,27 @@ step6: Choose the attribute with the fewest mistakes(if error rate are equal, th
 
 ![oneRexample](one_r.jpg)
 
+## Knn(K-Nearest-Neighbor)
+
+K‑Nearest Neighbor is a simple and widely used machine learning technique for classification and regression tasks. It works by identifying the K closest data points to a given input and making predictions based on the majority class or average value of those neighbors.
+
+Different method to calculate distance
+
+1. Euclidean Distance
+2. Manhattan Distance
+3. Minkowski Distance
+   
+when p = 1, it is Manhattan Distance
+
+when p = 2, it is Euclidean Distance
+
+
+
+
+
+
+
+
+
+
+
