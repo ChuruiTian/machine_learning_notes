@@ -15,12 +15,16 @@ The 1R (One Rule) algorithm is a simple, highly interpretable classification mac
 
 steps: 
 step1:Look at one attribute at a time
+
 step2: For each value of that attribute, find the most common class
+
 step3: Make a rule for that attribute
+
 step4: calculate error rate 
+
 step5: Repeat for every attribute
+
 step6: Choose the attribute with the fewest mistakes(if error rate are equal, then we can choose random one)
 
-example: 
 ![oneRexample](one_r.jpg)
 
