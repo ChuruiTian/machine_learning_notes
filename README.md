@@ -14,6 +14,7 @@ Topics I plan to include:
 The 1R (One Rule) algorithm is a simple, highly interpretable classification machine learning algorithm that generates a set of rules based on the single most informative input attribute.
 
 steps: 
+
 step1:Look at one attribute at a time
 
 step2: For each value of that attribute, find the most common class
