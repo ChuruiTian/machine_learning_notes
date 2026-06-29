@@ -2,10 +2,9 @@ Topics Covered
 
 1. Machine Learning Fundamentals
 Supervised learning and unsupervised learning
-Classification and regression
-Train / validation / test split
-Overfitting and underfitting
-Normalization and feature scaling
+Classification and regression 
+Train / validation / test split 
+Overfitting and underfitting 
 Basic data preprocessing
 
 3. Model Evaluation
