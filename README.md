@@ -17,13 +17,13 @@
 ## 4. Traditional Machine Learning Models
 - Linear Regression
 - Logistic Regression
+- 1R
 - K-Nearest Neighbours
 - Decision Trees
 - Random Forests
 - Support Vector Machines
 - K-Means Clustering
-- Principal Component Analysis
-
+- 
 ## 5. Deep Learning Fundamentals
 - Neural networks
 - Activation functions
@@ -34,29 +34,13 @@
 - Optimizers such as SGD and Adam
 
 ## 6. PyTorch Basics
-- Tensors
-- Dataset and DataLoader
-- Model class
-- Training loop
-- Validation loop
-- Saving and loading models
-- Plotting loss curves
+
 
 ## 7. CNN and Image-Based Learning
-- Convolution
-- Kernels / filters
-- Pooling
-- Image classification
-- Data augmentation
-- Transfer learning
+
 
 ## 8. U-Net and Image Segmentation
-- Image segmentation
-- Encoder-decoder architecture
-- Skip connections
-- Dice score
-- Intersection over Union
-- Basic medical image segmentation concepts
+
 
 Repository Structure
 ```text
