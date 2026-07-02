@@ -15,15 +15,14 @@
 - MSE, MAE, and RMSE
 
 ## 3. Traditional Machine Learning Models
-- Linear Regression
-- Logistic Regression
 - 1R
 - K-Nearest Neighbours
 - Decision Trees
 - Random Forests
 - Support Vector Machines
 - K-Means Clustering
-- 
+- Linear Regression
+- Logistic Regression
 ## 4. Deep Learning Fundamentals
 - Neural networks
 - Activation functions
@@ -45,14 +44,15 @@
 Repository Structure
 ```text
 machine-learning-notes/
-│
-├── 01_ML_fundamentals/
-├── 02_Model_evaluation/
-├── 03_Traditional_ML_models/
-├── 04_Deep_learning_basics/
-├── 05_Pytorch_basics/
-├── 06_CNN/
-├── 07_U-net_segmentation/
+|
+|- machine_learning_notes
+|     ├── 01_ML_fundamentals/
+|     ├── 02_Model_evaluation/
+|     ├── 03_Traditional_ML_models/
+|     ├── 04_Deep_learning_basics/
+|     ├── 05_Pytorch_basics/
+|     ├── 06_CNN/
+|     ├── 07_U-net_segmentation/
 └── README.md
 ```
 
