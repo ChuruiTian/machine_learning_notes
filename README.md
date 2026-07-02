@@ -5,7 +5,7 @@
 - Overfitting and underfitting
 - Basic data preprocessing
 
-## 3. Model Evaluation
+## 2. Model Evaluation
 - Accuracy
 - Precision
 - Recall
@@ -14,17 +14,16 @@
 - ROC curve and AUC
 - MSE, MAE, and RMSE
 
-## 4. Traditional Machine Learning Models
-- Linear Regression
-- Logistic Regression
+## 3. Traditional Machine Learning Models
 - 1R
 - K-Nearest Neighbours
 - Decision Trees
 - Random Forests
 - Support Vector Machines
 - K-Means Clustering
-- 
-## 5. Deep Learning Fundamentals
+- Linear Regression
+- Logistic Regression
+## 4. Deep Learning Fundamentals
 - Neural networks
 - Activation functions
 - Loss functions
@@ -33,26 +32,27 @@
 - Epochs, batch size, and learning rate
 - Optimizers such as SGD and Adam
 
-## 6. PyTorch Basics
+## 5. PyTorch Basics
 
 
-## 7. CNN and Image-Based Learning
+## 6. CNN and Image-Based Learning
 
 
-## 8. U-Net and Image Segmentation
+## 7. U-Net and Image Segmentation
 
 
 Repository Structure
 ```text
 machine-learning-notes/
-│
-├── 01_ML_fundamentals/
-├── 02_Model_evaluation/
-├── 03_Traditional_ML_models/
-├── 04_Deep_learning_basics/
-├── 05_Pytorch_basics/
-├── 06_CNN/
-├── 07_U-net_segmentation/
+|
+|- machine_learning_notes
+|     ├── 01_ML_fundamentals/
+|     ├── 02_Model_evaluation/
+|     ├── 03_Traditional_ML_models/
+|     ├── 04_Deep_learning_basics/
+|     ├── 05_Pytorch_basics/
+|     ├── 06_CNN/
+|     ├── 07_U-net_segmentation/
 └── README.md
 ```
 
